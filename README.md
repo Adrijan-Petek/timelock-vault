@@ -10,4 +10,4 @@ Simple ETH timelock vault that holds funds until a specified unlock time. Includ
 5. After unlock time: call `withdraw()` from owner to release funds.
 
 ## Security
-- This is minimal; production vaults need multisig and timelock governance.
+- This is minimal; production vaults need multisig and timelock governance. 
